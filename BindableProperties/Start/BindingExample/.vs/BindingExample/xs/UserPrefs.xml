@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{73D87DA4-B321-43A6-A718-1E7AEA0C5CD1}|Default">
+  <MonoDevelop.Ide.ItemProperties.BindingExample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4AA97345-82DE-4BBE-ADDB-55A60C4FB5E8" />
+  <MonoDevelop.Ide.ItemProperties.BindingExample FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BindingExample/Views/PageOne.cs">
+    <Files>
+      <File FileName="BindingExample/Views/PageOne.cs" Line="6" Column="1" />
+      <File FileName="BindingExample/ViewModels/AppViewModel.cs" />
+      <File FileName="BindingExample/App.xaml.cs" Line="15" Column="10" />
+      <File FileName="BindingExample/Views/PageTwo.cs" />
+      <File FileName="BindingExample.iOS/Main.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BindingExample" expanded="True" selected="True">
+            <Node name="BindingExample.iOS" expanded="True" />
+            <Node name="BindingExample" expanded="True">
+              <Node name="Views" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BindingExample.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
