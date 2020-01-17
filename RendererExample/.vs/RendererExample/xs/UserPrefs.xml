@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{63FCDC66-D661-4A11-97D4-0F80CF967061}|Default">
+  <MonoDevelop.Ide.ItemProperties.RendererExample.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RendererExample/CustomControls/CoreButtonRenderer.Droid.cs">
+    <Files>
+      <File FileName="RendererExample/CustomControls/CoreButton.cs" Line="6" Column="22" />
+      <File FileName="RendererExample/PageOne.cs" Line="15" Column="30" />
+      <File FileName="RendererExample/CustomControls/CoreButtonRenderer.Droid.cs" Line="26" Column="38" />
+      <File FileName="RendererExample/CustomControls/CoreButtonRenderer.iOS.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RendererExample" expanded="True">
+            <Node name="RendererExample.Android" expanded="True" />
+            <Node name="RendererExample.iOS" expanded="True" />
+            <Node name="RendererExample" expanded="True">
+              <Node name="CustomControls" expanded="True">
+                <Node name="CoreButton.cs" expanded="True">
+                  <Node name="CoreButtonRenderer.Droid.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RendererExample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.4AA97345-82DE-4BBE-ADDB-55A60C4FB5E8" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.RendererExample FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
